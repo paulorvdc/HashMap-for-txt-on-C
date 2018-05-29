@@ -1,0 +1,1 @@
+gcc main.c table.c listcad.c -o table
